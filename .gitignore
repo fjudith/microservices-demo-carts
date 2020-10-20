@@ -117,3 +117,8 @@ weave-ecs-demo-key.pem
 
 # Ignore artifact
 docker/**.jar
+
+# Ignogre vscode project files
+.project
+.classpath
+.settings
